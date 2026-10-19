@@ -1,0 +1,6 @@
+{
+  "name": "CompresorPro",
+  "description": "Comprime y optimiza audio y video. Comprime y descomprime archivos ISO, ZIP, RAR y 7z con una interfaz sencilla.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
